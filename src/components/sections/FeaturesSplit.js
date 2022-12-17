@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Working on technology to make your life better',
-    paragraph: 'Our desktop assistant allows you to intreact with the system and get things done '
+    title: 'Great ease of accessibility',
+    // paragraph: 'Our desktop assistant allows you to intreact with the system and get things done '
   };
 
   return (

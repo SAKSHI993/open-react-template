@@ -95,7 +95,7 @@ AI is capable of picking up verbal cues required to consolidate the information 
                     Hands-free
                     </h4>
                   <p className="m-0 text-sm">
-the voice feature frees up your arms, thereby enabling you to complete tasks simultaneously                   
+the voice feature frees up your arms, thereby enabling you to complete tasks simultaneously
  </p>
                 </div>
               </div>
@@ -122,7 +122,7 @@ Imagine how much time you have to spend to find some information on a website? V
               </div>
             </div>
 
-           
+
 
           </div>
         </div>
